@@ -1,0 +1,13 @@
+console.log('A');
+console.log('B');
+
+var i = 0;
+while(i < 50){
+    console.log('C1');
+    console.log('C2');
+    i += 1;
+}
+
+console.log('D');
+console.log('E');
+
